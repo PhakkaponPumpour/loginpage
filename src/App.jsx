@@ -22,7 +22,7 @@ function App() {
             <span>Username</span>
             <input
               type="text"
-              className="rounded-md p-1 border-2 outline-none
+              className=" text-black rounded-md p-1 border-2 outline-none
               focus:border-cyan-400 focus:bg-slate-50"
             />
           </div>
@@ -30,7 +30,7 @@ function App() {
             <span>Password</span>
             <input
               type="password"
-              className="rounded-md p-1 border-2 outline-none
+              className=" text-black rounded-md p-1 border-2 outline-none
               focus:border-cyan-400 focus:bg-slate-50"
             />
             <div className="flex gap-1 items-center">
